@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# AgroSmart: O Impacto do IoT na Redução do Consumo de Água no Campo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Artigo jornalístico e imagem ilustrativa simulando um case realista de uso de sensores IoT de umidade do solo e irrigação inteligente no agronegócio brasileiro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Texto:**  Gemini para a redação da matéria.
+- **Imagem:** Copilot para a criação da imagem foto-realista.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei prompts específicos para simular um artigo jornalístico técnico com depoimento de especialista fictício. Em seguida, utilizei a IA de imagem solicitando iluminação natural, elementos agrícolas modernos (sensores e irrigação) e personagens com tablet em campo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Imagem gerada: <img width="1536" height="1024" alt="Copilot_20261015_154249" src="https://github.com/user-attachments/assets/431fdb89-416b-4cef-a414-aae2111b69ed" />
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- Matéria:
+> ## Tecnologia no Campo: Fazenda no Triângulo Mineiro eleva produtividade e reduz consumo de água em 40% com irrigação inteligente
 
-### Exemplos e Insigths
+A agricultura de precisão deixou de ser promessa futurista e virou realidade na Fazenda Santa Clara, localizada no interior de Minas Gerais. Especializada no cultivo de grãos, a propriedade adotou uma rede de sensores IoT de umidade do solo integrada a sistemas de automação de pivôs centrais, alcançando uma economia de 40% no uso de recursos hídricos e um salto de 18% na produtividade das safras.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Antes da modernização, o manejo da irrigação baseava-se em métodos tradicionais e estimativas visuais, o que frequentemente resultava em desperdício de água ou estresse hídrico nas plantações. Com a instalação dos sensores conectados via rede de longo alcance, o sistema monitora em tempo real a retenção de água em diferentes profundidades do solo e aciona os motores automaticamente apenas quando necessário.
 
-## Links Interessantes
+"O grande ganho não é apenas gastar menos água, mas gastar com precisão cirúrgica", explica o engenheiro agrônomo responsável pelo projeto, Carlos Eduardo Silveira. "Conseguimos manter o solo na faixa ideal de umidade durante todo o ciclo vegetativo, eliminando tanto o encharcamento quanto a escassez. A planta expressa seu potencial genético máximo porque não sofre choques hídricos."
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Além da sustentabilidade ambiental, o investimento na tecnologia trouxe retorno financeiro rápido devido à redução nos custos com energia elétrica e ao melhor aproveitamento dos insumos. A experiência na Fazenda Santa Clara já serve de polo demonstrativo para produtores da região que buscam aliar eficiência operacional e conservação ambiental.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão (Natty or Not)
+Criar um projeto que pareça 100% "Natty" (natural/humano) usando ferramentas generativas mostra o poder atual dessas tecnologias na criação de conteúdo técnico e visual para portfólio.
+
